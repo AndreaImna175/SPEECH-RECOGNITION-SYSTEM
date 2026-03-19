@@ -21,3 +21,6 @@ The system works by first taking an audio file in WAV format as input. WAV is pr
 One of the key features of this system is its simplicity and ease of use. Users only need to place an audio file in the project directory and run the Python script to obtain the transcription. This project highlights the practical application of pre-trained AI models and shows how complex tasks like speech recognition can be implemented with minimal code using existing tools. It also provides insight into how modern applications such as virtual assistants, voice search, and automated transcription services work in real-world scenarios.
 In conclusion, the developed speech recognition system successfully meets the objective of transcribing short audio clips into text.
 
+#OUTPUT:
+
+<img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/7f76fbab-8a83-4db5-8931-bd03282b65ce" />
